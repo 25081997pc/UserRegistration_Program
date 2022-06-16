@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\net6.0\UserRegistrationProgram.exe
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\net6.0\UserRegistrationProgram.deps.json
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\net6.0\UserRegistrationProgram.runtimeconfig.json
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\net6.0\UserRegistrationProgram.dll
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\net6.0\UserRegistrationProgram.pdb
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\UserRegistrationProgram.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\UserRegistrationProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\UserRegistrationProgram.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\UserRegistrationProgram.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\UserRegistrationProgram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\UserRegistrationProgram.dll
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\refint\UserRegistrationProgram.dll
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\UserRegistrationProgram.pdb
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\UserRegistrationProgram.genruntimeconfig.cache
+C:\Users\DELL\source\repos\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\net6.0\ref\UserRegistrationProgram.dll
