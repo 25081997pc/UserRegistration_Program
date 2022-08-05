@@ -5,7 +5,7 @@ namespace UserRegistrationTest
     [TestClass]
     public class UserEmailTest
     {
-         [DataTestMethod]
+         [TestMethod]
          [DataRow("abc@yahoo.com")]
          [DataRow("abc-100@yahoo.com")]
          [DataRow("abc.100@yahoo.com")]
@@ -30,7 +30,7 @@ namespace UserRegistrationTest
             Assert.AreEqual(expected_output, actual_output);
          }
 
-        [DataTestMethod]
+        [TestMethod]
         [DataRow("abc")]
         [DataRow("abc123@gmail.a")]
         [DataRow("abc@.com.my")]
